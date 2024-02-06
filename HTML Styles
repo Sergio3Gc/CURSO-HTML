@@ -1,0 +1,26 @@
+Style Attribute
+<tagname style="property:value;">
+
+Background color
+<body style="background-color:powderblue;">
+
+<h1>SMZ CELL</h1>
+<p>SMZ CELL</p>
+
+</body>
+
+Text Color
+<h1 style="color:blue;">SMZ CELL</h1>
+<p style="color:red;">SMZ CELL</p>
+
+Fonts
+<h1 style="font-family:verdana;">SMZCELL</h1>
+<p style="font-family:courier;">SMZCELL</p>
+
+Text Size
+<h1 style="font-size:300%;">SMZCELL</h1>
+<p style="font-size:160%;">SMZCELL</p>
+
+Text Aligment
+<h1 style="text-align:center;">SMZCELL</h1>
+<p style="text-align:center;">SMZCELL</p>
