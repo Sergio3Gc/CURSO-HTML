@@ -1,0 +1,10 @@
+Headings
+<h1>SMZ 1</h1>
+<h2>SMZ 2</h2>
+<h3>SMZ 3</h3>
+<h4>SMZ 4</h4>
+<h5>SMZ 5</h5>
+<h6>SMZ 6</h6>
+
+Bigger
+<h1 style="font-size:60px;">SMZ CELL</h1>
