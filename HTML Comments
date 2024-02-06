@@ -1,0 +1,16 @@
+Add Comments
+<!-- This is a comment -->
+
+<p>SMZCELL STORE.</p>
+
+<!-- Remember to add more information here -->
+
+Hide Content
+<p>This is SMZCELL STORE</p>
+
+<!-- <p>This is smzcell </p> -->
+
+<p>This is smz cell store.</p>
+
+Hide inline content
+<p>This <!-- great text --> is smzcell</p>
