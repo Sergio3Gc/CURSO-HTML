@@ -1,0 +1,19 @@
+Display
+<p>
+SMZCELL
+</p>
+
+<p>
+SMZCELL
+</p>
+
+Horizontal Rules
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
+
+Line Breaks
+<p>This is<br>a paragraph<br>with line breaks.</p>
