@@ -1,0 +1,81 @@
+-  inline CSS
+<h1 style="color:blue;">A Blue SMZ</h1>
+
+<p style="color:red;">A red SMZ.</p>
+
+-  Internal CSS
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is smzcell</h1>
+<p>This is smzcell</p>
+
+</body>
+</html>
+
+-  External CSS
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>This is smzcell</h1>
+<p>This is a smzcell</p>
+
+</body>
+
+- CSS Colors, Fronts and Size
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>This is smzcell</h1>
+<p>This is a smzcell</p>
+
+</body>
+</html>
+</html>
+
+-  Border
+p {
+  border: 2px solid powderblue;
+}
+
+-  Padding
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
+
+-  CSS Margin
+p {
+  border: 2px solid powderblue;
+  margin: 50px;
+
+-  Link External CSS
+<link rel="stylesheet" href="https://www.smzcell.com/html/styles.css">
+}
