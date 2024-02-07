@@ -1,0 +1,19 @@
+Euro
+<p>I will display &euro;</p>
+<p>I will display &#8364;</p>
+<p>I will display &#x20AC;</p>
+
+Emoji
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<body>
+
+<h1>Sized Emojis</h1>
+
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
+
+</body>
+</html>
