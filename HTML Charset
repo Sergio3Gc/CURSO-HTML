@@ -1,0 +1,11 @@
+charset Attribute
+<meta charset="UTF-8">
+
+ANSI Character Set
+<meta charset="Windows-1252">
+
+ISO-8859-1 Character Set
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+
+UTF-8 Character Set
+<meta charset="UTF-8">
