@@ -1,0 +1,35 @@
+-    Images
+<img src="pic_smz.jpg" alt="SMZ CELL">
+
+-    Syntax
+<img src="url" alt="alternatetext">
+
+-    Src Attribute
+<img src="img_smz.jpg" alt="SMZ CELL">
+
+-    Alt Attribute
+<img src="img_smz.jpg" alt="SMZ CELL">
+
+-    Width and Height
+<img src="img_smz.jpg" alt="SMZ CELL" style="width:500px;height:600px;">
+
+-    Another Folder
+<img src="/images/smz.gif" alt="SMZ CELL" style="width:128px;height:128px;">
+
+-    Another Server/Website
+<img src="https://www.smzcell.com/images/smz_green.jpg" alt="smzcellstore.com">
+
+-    Animated Images
+<img src="smz.gif" alt="SMZ CELL" style="width:48px;height:48px;">
+
+-    Link
+<a href="default.asp">
+  <img src="smzcell.gif" alt="HTML smz" style="width:42px;height:42px;">
+</a>
+
+Floating
+<p><img src="smzcell.gif" alt="Smz" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
+<p><img src="smzcell.gif" alt="Smz" style="float:left;width:42px;height:42px;">
+The image will float to the left of the text.</p>
