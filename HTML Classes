@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+  <h2>México</h2>
+  <p>Mexico es un Pais Hermoso.</p>
+</div>
+
+<div class="city">
+  <h2>Paris</h2>
+  <p>Paris es la capital de francia</p>
+</div>
+
+<div class="city">
+  <h2>Tokyo</h2>
+  <p>Tokyo es la capital de japon</p>
+</div>
+
+</body>
+</html>
