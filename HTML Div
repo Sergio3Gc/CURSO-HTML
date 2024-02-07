@@ -1,0 +1,9 @@
+SMZCELL <div>I am smz </div>store
+
+-    Center align
+<style>
+div {
+  width:300px;
+  margin:auto;
+}
+</style>
