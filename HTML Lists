@@ -1,0 +1,21 @@
+Desordenada
+<ul>
+  <li>SMZ</li>
+  <li>CELL</li>
+  <li>STORE</li>
+</ul>
+
+Ordenada
+<ol>
+  <li>SMZ</li>
+  <li>CELL</li>
+  <li>STORE</li>
+</ol>
+
+Descripcion
+<dl>
+  <dt>SMZ</dt>
+  <dd>- INNOVADOR</dd>
+  <dt>CELL</dt>
+  <dd>- COLOR NEGRO</dd>
+</dl>
