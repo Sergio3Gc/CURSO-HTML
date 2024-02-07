@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>SMZ CELL STORE</td>
+    <td>Sergio Galaviz Camacho</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>RACING PRO</td>
+    <td>Sergio Camacho</td>
+    <td>Mexico</td>
+  </tr>
+</table>
